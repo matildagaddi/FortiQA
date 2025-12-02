@@ -1,5 +1,5 @@
 # Under Construction 🏗️
-# FortiQA: Adaptive Edge-Cloud Framework for Cybersecurity Question-Answering Using LLMs
+# FortiQA: Privacy-Preserving Edge-Cloud Framework for LLM Cybersecurity Question Answering
 
 We introduce the FortiQA framework which excels in both efficiency and privacy. FortiQA uses larger cloud models to batch generate guidance when the question is secure enough to send to the cloud, and then passes the guidance to smaller models for QA tasks. It offers hightened privacy through PII/NER masking in questions and classification of when to send questions to cloud or stay on the edge.
 
