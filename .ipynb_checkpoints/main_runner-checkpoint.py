@@ -8,7 +8,6 @@
 # add more parameters to functions for ablation experiments and save to args file
 # make functions more plug and play for ablation experiments
 # ADD explanations to few shots for guidance example
-# system prompts for different datasets
 
 
 import os
